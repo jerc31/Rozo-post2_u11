@@ -1,4 +1,3 @@
-// :feature:notes - Modulo de feature aislado.
 // Depende SOLO de las abstracciones de :core:domain y de los componentes
 // reutilizables de :core:ui. NO conoce :app ni a otros features.
 plugins {
