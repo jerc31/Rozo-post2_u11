@@ -1,4 +1,4 @@
-// :core:database - Persistencia local con Room.
+
 // Expone NoteEntity, NoteDao y AppDatabase. NO conoce dominio ni network.
 plugins {
     alias(libs.plugins.android.library)

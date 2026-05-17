@@ -1,4 +1,3 @@
-// :core:domain - Modulo JVM puro.
 // Define contratos (interfaces + modelos). No depende de Android para que sea
 // facilmente testeable y reusable desde cualquier feature.
 plugins {

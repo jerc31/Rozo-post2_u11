@@ -1,6 +1,5 @@
-// :core:sync - Orquestador de sincronizacion.
 // Define el Worker instrumentado con OpenTelemetry, el scheduler que
-// lo encola con constraints de red y la inicializacion del SDK de OTel.
+// lo encola con constraints de red y la inicializacion del SDK
 plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.android)

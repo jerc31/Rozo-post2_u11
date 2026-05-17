@@ -1,6 +1,6 @@
 // :app - Modulo de aplicacion. Ensambla features y core, provee la impl
 // concreta del repositorio offline-first y registra el WorkManagerFactory
-// inyectado por Hilt para que SyncWorker reciba sus dependencias.
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
