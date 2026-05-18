@@ -1,5 +1,4 @@
-// :app - Modulo de aplicacion. Ensambla features y core, provee la impl
-// concreta del repositorio offline-first y registra el WorkManagerFactory
+
 
 plugins {
     alias(libs.plugins.android.application)
@@ -45,7 +44,7 @@ android {
 }
 
 dependencies {
-    // Modulos del proyecto
+    // Modulos para el  proyecto
     implementation(project(":core:domain"))
     implementation(project(":core:ui"))
     implementation(project(":core:database"))
